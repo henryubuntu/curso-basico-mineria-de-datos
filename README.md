@@ -15,4 +15,4 @@ El orden que se recomienda para éste curso es el siguiente
 
 ## Quiero participar
 
-El curso está escrito utilizando [LaTEX](https://latex-project.org/intro.html) cada archivo pdf tiene su homónimo en ´.tex´, basta con modificar los fuentes y opcionalmente agregar archivos como imagenes para poder colaborar.
+El curso está escrito utilizando [LaTEX](https://latex-project.org/intro.html) cada archivo pdf tiene su homónimo en `.tex` , basta con modificar los fuentes y opcionalmente agregar archivos como imagenes para poder colaborar.
