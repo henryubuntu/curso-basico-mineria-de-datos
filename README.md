@@ -8,10 +8,11 @@ Se admiten comentarios repecto a erratas y sugerencias, así como *pull request*
 
 ## ¿Cómo empiezo?
 El orden que se recomienda para éste curso es el siguiente
+
 1. proba.pdf
 2. class.pdf
 3. herramientas.pdf
 
 ## Quiero participar
 
-El curso está escrito utilizando [LaTEX](https://latex-project.org/intro.html) cada archivo pdf tiene su homónimo en ´.tex´, basta con modificar los fuentes y opcionalmente agregar archivos como imagenes para poder colaborar.
+El curso está escrito utilizando [LaTEX](https://latex-project.org/intro.html) cada archivo pdf tiene su homónimo en `.tex` , basta con modificar los fuentes y opcionalmente agregar archivos como imagenes para poder colaborar.
