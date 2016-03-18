@@ -8,6 +8,7 @@ Se admiten comentarios repecto a erratas y sugerencias, así como *pull request*
 
 ## ¿Cómo empiezo?
 El orden que se recomienda para éste curso es el siguiente
+
 1. proba.pdf
 2. class.pdf
 3. herramientas.pdf
